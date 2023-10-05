@@ -23,12 +23,5 @@ public class ana{
             System.exit(0);
         }
         x.close();
-        System.out.println("Darshan Kumar T");
-        System.out.println("Darshan Kumar T");
-        System.out.println("Darshan Kumar T");
-        System.out.println("Darshan Kumar T");
-        System.out.println("Darshan Kumar T");
-        System.out.println("Darshan Kumar T");
-        System.out.println("Darshan Kumar T");
     }
 }
