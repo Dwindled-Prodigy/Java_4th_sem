@@ -1,4 +1,4 @@
-public class INPUT {
+public class exceptionhandling {
 
     public static void main(String[] args) {
         try {
